@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties answer to the declaration and votes of both Houses of Parliament concerning Hull sent May 4. 1642.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78640</idno>
+            <idno type="STC">Wing C2111A</idno>
+            <idno type="STC">ESTC R223422</idno>
+            <idno type="EEBO-CITATION">99897408</idno>
+            <idno type="PROQUEST">99897408</idno>
+            <idno type="VID">135596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2492:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties answer to the declaration and votes of both Houses of Parliament concerning Hull sent May 4. 1642.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Barker, printer to the Kings most Excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Proceedings. 1642-04-28 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Hull (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135596:1" rendition="simple:additions"/>
+            <p>HIS MAJESTIES <hi>ANSWER</hi> TO The DECLARATION and VOTES of both Houſes of
+<hi>Parliament</hi> concerning HULL, SENT <hi>May</hi> 4. 1642.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the
+Aſſignes of JOHN BILL. MDCXLII.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:135596:2"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal English blazon or coat of arms of Charles I</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:135596:2"/>
+            <head>His Majeſties Anſwer To the Declaration of both Houſes of Parliament concerning
+<hi>Hull,</hi> ſent
+<date>
+                  <hi>May</hi> 4. 1642.</date>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince Our Gracious Meſ<g ref="char:EOLhyphen"/>ſage of the <hi>24.</hi> of April laſt to both Houſes of
+Parlia<g ref="char:EOLhyphen"/>ment (demanding Iuſtice for the high, and unheard-of Affront offered unto Vs at the Gates
+of <hi>Hull,</hi> by Sir <hi>John Hotham</hi>) is not thought worthy of an Anſwer; but that
+inſtead thereof they have thought fit by their printed Votes of the <hi>28.</hi> of April laſt,
+to own and avow that un<g ref="char:EOLhyphen"/>paralleled Act of Sir <hi>John Hothams,</hi> to be done in obedience to the
+Command of both Houſes of Parliament (though at
+<pb n="2" facs="tcp:135596:3"/>that time he could produce no ſuch Com<g ref="char:EOLhyphen"/>mand) and
+with other Reſolutions, a<g ref="char:EOLhyphen"/>gainſt Our Proceedings there, to publiſh a Declaration concerning
+that buſineſſe, as an appeal to the People, and as if their entercourſe with Vs, and for
+Our ſatiſ<g ref="char:EOLhyphen"/>faction were now to no more purpoſe, though We knew this courſe of theirs to be
+very unagreeable to the Modeſtie &amp; Dutie of former times, and unwarrantable by any
+Precedents, but what themſelves have made; yet We are not unwilling to joyn iſſue with them
+in this way, and to let all the world know, how neceſſary, juſt, and lawfull all Our
+Proceedings have been in this Point, and that the de<g ref="char:EOLhyphen"/>fence of theſe Proceedings, is, The de<g ref="char:EOLhyphen"/>fence
+of the Law of the Land, Of the Li<g ref="char:EOLhyphen"/>bertie and Propertie of the Subject, and that by the ſame Rule
+of Iuſtice, which is now offered to Vs, all the private In<g ref="char:EOLhyphen"/>tereſt and Title of all Our good
+Sub<g ref="char:EOLhyphen"/>jects to all their Lands and Goods are confounded and deſtroyed. Maſter <hi>Pym</hi>
+himſelf tells you, in his Speech againſt
+<pb n="3" facs="tcp:135596:3"/>the Earle of <hi>Strafford</hi> (publiſhed by
+the Order of the Houſe of Commons) <hi>The Law is the ſafeguard; The Cuſtodie of all pri<g ref="char:EOLhyphen"/>vate
+Intereſts; your Honours, your Lives, your Liberties, and Eſtates are all in the keeping of the
+Law; without this, every man hath a like right to any thing.</hi> And We would fain be anſwered,
+what Title any Subject of Our Kingdom hath to his Houſe or Land, that We have not to Our Town of
+<hi>Hull?</hi> Or what right hath he to his Money, Plate, or Iewels, that We have not to Our
+Magazine or Munition there? If We had ever ſuch a Title, We would know when We loſt it? And if
+that Magazine and Munition (bought with Our own Money) were ever Ours; When, and how that Propertie
+went out of Vs? We very well know the great and unlimited Power of a Parliament; but We know as
+well, that it is onely in that ſenſe, as We are a part of that Parliament. Without Vs, and
+a<g ref="char:EOLhyphen"/>gainſt Our conſent, the Votes of ei<g ref="char:EOLhyphen"/>ther, or both Houſes together, muſt not,
+<pb n="4" facs="tcp:135596:4"/>cannot, ſhall not (if We can help it, for Our
+Subjects ſake, as well as Our own) forbid any thing that is enjoyned by the Law, or enjoyn any
+thing that is forbidden by the Law, but in any ſuch al<g ref="char:EOLhyphen"/>teration which may be for the Peace and
+happineſſe of the Kingdom, We have not, ſhall not refuſe to conſent: and We doubt not but
+that all Our good Sub<g ref="char:EOLhyphen"/>jects will eaſily diſcern in what a miſera<g ref="char:EOLhyphen"/>ble inſecurity and
+confuſion they muſt ne<g ref="char:EOLhyphen"/>ceſſarily and inevitably be, if Deſcents may be altered,
+Purchaſes avoided, Aſ<g ref="char:EOLhyphen"/>ſurances and Conveyances cancelled, the Soveraign Legall Authority
+deſpiſed and reſiſted by Votes or Orders of ei<g ref="char:EOLhyphen"/>ther, or both Houſes: And this We are
+ſure is Our caſe at <hi>Hull;</hi> And as it is Ours to day, by the ſame rule it may be
+theirs to morrow.</p>
+            <p>Againſt any deſperate deſignes of the Papiſts, We have ſufficiently expreſſed Our
+zeal and intentions, and ſhall be as forward to adventure Our own Life and Fortune to oppoſe
+any ſuch De<g ref="char:EOLhyphen"/>ſignes,
+<pb n="5" facs="tcp:135596:4"/>as the meaneſt Subject in Our Kingdom.</p>
+            <p>For the Malignant Party, as the Law hath not to Our knowledge defi<g ref="char:EOLhyphen"/>ned their condition, ſo
+hath neither Houſe preſented them to Vs, under ſuch a No<g ref="char:EOLhyphen"/>tion as We may well underſtand
+whom they intend, and We ſhall therefore onely enquire after, and avoid the Malignant Party under
+the Character of perſons diſaffected to the Peace and Government of the Kingdom, and ſuch
+(who neglect<g ref="char:EOLhyphen"/>ing and deſpiſing the Law of the Land) have given themſelves other Rules to walk
+by, and ſo diſpenſed with their Obe<g ref="char:EOLhyphen"/>dience to Authority: Of theſe perſons (as
+deſtructive to the Common Wealth) We ſhall take all poſſible Caution.</p>
+            <p>Why any Letters intercepted from the Lord <hi>Digby</hi> (wherein he mentions a Re<g ref="char:EOLhyphen"/>treate to a
+place of Safety) ſhould hin<g ref="char:EOLhyphen"/>der Vs from viſiting Our own Fort, and how We have oppoſed any
+wayes of Accommodation with Our Parliament, and what wayes and Overtures have
+<pb n="6" facs="tcp:135596:5"/>been offered in any way, or like any deſire of
+ſuch Accommodation, or whether Our Meſſage of the <hi>20.</hi> of Ianuary laſt (ſo often
+in vain preſſed by Vs) have not ſuf<g ref="char:EOLhyphen"/>ficiently expreſſed Our earneſt deſire of it, let
+all the world judge: Neither is it in the power of any perſons to encline Vs to take Arms
+againſt Our Parliament, and Our good Subjects, and miſerably to imbroil this Kingdom in Civil
+Wars. We have given ſufficient evidence to the world how much Our Affections abhor, and Our heart
+bleeds at the apprehenſi<g ref="char:EOLhyphen"/>on of a Civil War; And let God and the world judge if Our Care and
+Induſtry be onely to defend and protect The Li<g ref="char:EOLhyphen"/>bertie of the Subject, The Law of the Kingdom, Our
+own juſt Rights (part of that Law) and Our Honour (much more precious then Our Life) and if in
+oppoſition to theſe any Civill Wars ſhall ariſe, upon whoſe Account the Blood and
+deſtruction that muſt follow muſt be caſt: God, and Our own conſcience tells Vs that We
+are clear.</p>
+            <pb n="7" facs="tcp:135596:5"/>
+            <p>For Captain <hi>Leggs</hi> being ſent here<g ref="char:EOLhyphen"/>tofore to <hi>Hull,</hi> (though by the way, this
+is the firſt time We ever heard that he was accuſed for the practice of bringing up the Army
+againſt the Parliament, neither do We yet know that there is ſuch a charge againſt him) or
+for the Earl of <hi>Newcaſtles</hi> being ſent thither by Our Warrant and Authority, We asked a
+Queſtion long ago in Our Anſwer to both Houſes concerning the Magazine at <hi>Hull,</hi>
+which We have cauſe to think is not eaſie to be anſwered: Why the gene<g ref="char:EOLhyphen"/>rall rumour of the
+deſigne of Papiſts in the northern parts, ſhould not be thought ſufficient ground for Vs to
+put in ſuch a perſon of Honour, Fortune, and unble<g ref="char:EOLhyphen"/>miſhed Reputation (as the Earl of
+<hi>New<g ref="char:EOLhyphen"/>caſtle</hi> is known to be) into a Town and Fort of Our own, where Our own Ma<g ref="char:EOLhyphen"/>gazine lay;
+And yet the ſame rumour be Warrant enough to commit the ſame Town and Fort without Our
+conſent to the hands of Sir <hi>John Hotham,</hi> with ſuch a Power as is now too well known
+<pb n="8" facs="tcp:135596:6"/>and underſtood. How Our refuſall to have that
+Magazine removed upon the Petition of both Houſes, could give an advantage againſt Vs to have
+it taken from Vs; And whether it was a refu<g ref="char:EOLhyphen"/>ſall, all men will eaſily underſtand who read Our
+Anſwer to that Petition, to which it hath not been yet thought fit to make any Reply.</p>
+            <p>For the Condition of thoſe perſons who preſented the Petition to Vs at <hi>York,</hi>
+(whom that Declaration calls, <hi>Some few ill affected perſons about the Citie of York</hi>) to
+continue the Magazine at <hi>Hull,</hi> We make no doubt but that Petition will appear to be
+atteſted both in number and weight, by perſons of Honour and In<g ref="char:EOLhyphen"/>tegritie, and much more
+converſant with the Affections of the whole County, then moſt of thoſe Petitions which have
+been received with ſo much Conſent and Ap<g ref="char:EOLhyphen"/>probation: And for their preſumption of
+interpoſing their advice, We the more wonder at that Exception, when ſuch encouragement hath
+been given, and
+<pb n="9" facs="tcp:135596:6"/>thanks declared to multitudes of mean, unknown
+People, Prentices and Por<g ref="char:EOLhyphen"/>ters, who have accompanied Petitions of very ſtrange natures.</p>
+            <p>For the manner of Our going to <hi>Hull,</hi> We have clearly ſet forth the ſame in Our
+Meſſage to both Houſes of that Buſineſſe; And for any intelligence given to Sir
+<hi>Iohn Hotham</hi> of an Intention to deprive him of his life; as We know there was no ſuch
+Intention in Vs, having given him all poſſible aſſurance of the ſame at Our being there;
+ſo we are con<g ref="char:EOLhyphen"/>fident no ſuch intelligence was given; Or if it were, it was by ſome villaine,
+who had nothing but malice, or deſigne to fright him from his due Obedience, to warrant him. And
+Sir <hi>Iohn Hotham</hi> had all the reaſon to aſſure himſelf, that his life would be in
+much more danger by re<g ref="char:EOLhyphen"/>fuſing to admit his King into his own Town and Fort, then by yeelding Him
+that Obedience, which he owed by his Oathes of Allegiance and Supremacie, and the Proteſtation,
+and he well knew
+<pb n="10" facs="tcp:135596:7"/>was due and warrantable by the Laws of the
+Land.</p>
+            <p>For the number of Our Attendants (though that could be no Warrant for ſuch a diſobedience in
+a Subject) it is well known (as We expreſſed in Our Meſſage to both Houſes, to which
+credit ought to have bin given) that We offered to go into the Town with twenty Horſe onely; Our
+whole Train being unarmed: And who<g ref="char:EOLhyphen"/>foever thinks that too great an atten<g ref="char:EOLhyphen"/>dance for Our Self, and
+Our two Sons, have ſure an Intention to bring Vs to a meaner Retinue then they yet will avow.</p>
+            <p>Here is then Our Caſe (of which let all the world judge) We endeavoured to viſit a Town and
+Fort of Our own, wherein Our own Magazin lay, a Sub<g ref="char:EOLhyphen"/>ject in Defiance of Vs ſhuts the Gates
+againſt Vs, with armed men reſiſts, de<g ref="char:EOLhyphen"/>nies and oppoſes Our Entrance, tels Vs in plain
+terms, We ſhall not come in. We do not pretend to underſtand much Law, yet in the point of
+Treaſon, We have had much Learning taught Vs
+<pb n="11" facs="tcp:135596:7"/>this Parliament, and if the ſenſe of the
+Statute <hi>25. E. 3. cap. 2.</hi> be not very differing from the Letter, Sir <hi>John Hothams</hi>
+Act was no leſſe then plain high Treaſon: And We had been contemptibly ſtupid, if We had
+(after all thoſe circumſtances of Grace and Favour then ſhewed him) made any ſcruple to
+proclaime him Trai<g ref="char:EOLhyphen"/>tour: And whether he be ſo or no, if he ſhall render himſelf, We will
+require no other Triall, then that which the Law hath appointed to every Subject, and which We are
+confident We have not (in the leaſt degree) in thoſe proceedings vio<g ref="char:EOLhyphen"/>lated, no more then We
+have done the Priviledge of Parliament by andeavour<g ref="char:EOLhyphen"/>ing in a juſt way to challenge Our own
+unqueſtionable Priviledges: for that in ſuch a caſe, the declaring him Traitour, being a
+Member of the Houſe of Com<g ref="char:EOLhyphen"/>mons, without Proceſſe of Law, ſhould be a breach of Priviledge
+of Parliament (of which We are ſure none extends to Treaſon, Felonie, or breach of the Peace)
+<pb n="12" facs="tcp:135596:8"/>againſt the Liberty of the Subject, or
+a<g ref="char:EOLhyphen"/>gainſt the Law of the Land, We muſt have other Reaſons then bare Votes.</p>
+            <p>We would know if Sir <hi>John Hotham</hi> had (with thoſe Forces by which he kept Vs out of
+Our Town of <hi>Hull</hi>) purſued Vs to the gates of <hi>York</hi> (which he might as legally
+have done) muſt We have ſtaid from declaring him Traitour, till pro<g ref="char:EOLhyphen"/>ceſſe of Law might have
+iſſued againſt him? Will feares and jealouſies diſpenſe with reall and neceſſary
+formes, and muſt We when actuall War is leavied upon Vs, obſerve forms, which the Law it ſelf
+doth not enjoyne? The cauſe is truely ſtated, let all the world judge (unleſſe the meer
+Sitting of a Parliament doth ſuſpend all Lawes, and We are the onely Perſon in
+<hi>England</hi> againſt whom Trea<g ref="char:EOLhyphen"/>ſon cannot be committed) where the fault is: And
+whatſoever Courſe We ſhall be driven to for the Vindication of this Our Priviledge, and for
+the Recovery and maintenance of Our known and un<g ref="char:EOLhyphen"/>doubted
+<pb n="13" facs="tcp:135596:8"/>doubted Rights, We do promiſe in the preſence
+of Almighty God, and as We hope for his bleſſing in Our ſucceſſe, that We will to the
+utmoſt of Our Powers defend and maintain the true proteſtant Profeſſion, the Law of the
+Land, the Liberty of the Subject, and the juſt Pri<g ref="char:EOLhyphen"/>viledge and freedome of Parliament.</p>
+            <p>For the Order of Aſſiſtance given to the Committees of both Houſes, concern<g ref="char:EOLhyphen"/>ing their
+going to <hi>Hull,</hi> We ſhall ſay no more, but that thoſe perſons named in that Order,
+We preſume will give no Commands, or Our good Subjects obey other, then what are warranted by the
+Law (how large and unlimited ſoever the directions are, or the Inſtructions may be) for to that
+rule We ſhall apply Our own Actions, and by it require an ac<g ref="char:EOLhyphen"/>count from other men. And that all
+Our good Subjects may the better know their dutie in matters of this nature, We wiſh them
+carefully to peruſe the Statute in the <hi>11<hi rend="sup">th</hi>
+               </hi> yeer of <hi>H. 7. Chap. 1.</hi>
+            </p>
+            <pb n="14" facs="tcp:135596:9"/>
+            <p>We conclude with Maſter <hi>Pyms</hi> own words: <hi>If the Prerogative of the King over<g ref="char:EOLhyphen"/>whelm
+the liberty of the People, it will be turned to Tyranny; If Liberty undermine the Preroga<g ref="char:EOLhyphen"/>tive, it
+will grow into Anarchy,</hi> And ſo We ſay into Confuſion.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135596:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
